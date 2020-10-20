@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Carter+One&display=swap');
+#tituloIndex
+{
+	font-family: 'Great Vibes';
+	color: #077D61;
+}
+#tituloCabelereira
+{
+	font-family:'Bungee Inline' ;
+	color: #800000;
+}
+#tituloPrecos
+{
+	font-family: 'Carter One';
+	color: #061492;
+}
+/*
+*
+{
+	margin: 0;
+}
+*/
+.carousel-inner img 
+{
+   width: 100%;
+   height: 100%;
+}
+
+.corNome
+{
+	color: #008000;
+}
